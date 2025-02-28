@@ -16,3 +16,5 @@ document.getElementById('add-money').addEventListener('click', function (event) 
         console.log("pin shitik na")
     }
 })
+
+document.getElementById("cashout").style.display = "none";
